@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Sadhari Viswateja
 
 I'm a **Full Stack Web Developer** passionate about building dynamic and responsive web applications. I enjoy working on both the front-end and back-end, creating seamless user experiences and robust server-side functionalities.
 
@@ -6,9 +6,9 @@ I'm a **Full Stack Web Developer** passionate about building dynamic and respons
 - **Front-end:** HTML, CSS, JavaScript, React.js, Bootstrap
 - **Back-end:** Node.js, Express.js
 - **Databases:** MongoDB, SQL, PostgreSQL
-- **Deployment:** Netlify, Heroku
+- **Deployment:** Netlify
 - **Version Control:** Git, GitHub
-- **Others:** REST APIs, Postman
+- **Others:** REST APIs, Postman, VS Code
 
 ### 🌱 What I'm currently working on:
 - Building full-stack applications with modern frameworks and technologies
@@ -22,10 +22,10 @@ I'm a **Full Stack Web Developer** passionate about building dynamic and respons
 - Used **React.js** to build interactive, high-performance front-end interfaces
 
 ### 📫 How to reach me:
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile/)
-- Email: [Your Email](mailto:your-email@example.com)
+- LinkedIn: [Sadhari Viswateja](https://www.linkedin.com/in/sadhari-viswateja/)
+- Email: [sadariviswateja](mailto:sadariviswateja@gmail.com)
 
 ### 🔗 Let's Connect:
 Feel free to explore my repositories, contribute to open-source, or connect with me for collaborations or discussions on web development!
 
-![Profile views](https://gpvc.arturio.dev/your-github-username)
+![Sadhari Viswateja](https://github.com/sadhariviswateja)
