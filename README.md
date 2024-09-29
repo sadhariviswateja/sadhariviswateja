@@ -28,4 +28,4 @@ I'm a **Full Stack Web Developer** passionate about building dynamic and respons
 ### 🔗 Let's Connect:
 Feel free to explore my repositories, contribute to open-source, or connect with me for collaborations or discussions on web development!
 
-![Sadhari Viswateja](https://github.com/sadhariviswateja)
+-[Sadhari Viswateja](https://github.com/sadhariviswateja)
