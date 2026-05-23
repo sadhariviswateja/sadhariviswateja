@@ -3,10 +3,12 @@
 I'm a **Full Stack Web Developer** passionate about building dynamic and responsive web applications. I enjoy working on both the front-end and back-end, creating seamless user experiences and robust server-side functionalities.
 
 ### 💻 Technologies & Tools:
-- **Front-end:** HTML, CSS, JavaScript, React.js, Bootstrap
-- **Back-end:** Node.js, Express.js
-- **Databases:** MongoDB, SQL, PostgreSQL
-- **Deployment:** Netlify
+- **UI:** Google stitch, Figma.
+- **Front-end:** HTML, CSS, JavaScript, React.js, React Native, Tailwind css.
+- **Back-end:** Node.js, Express.js.
+- **Testing:** Jest.
+- **Databases:** MongoDB, SQL.
+- **Deployment:** Netlify,Vercel
 - **Version Control:** Git, GitHub
 - **Others:** REST APIs, Postman, VS Code
 
